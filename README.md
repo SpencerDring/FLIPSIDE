@@ -1,3 +1,5 @@
 # FLIPSIDE
 
-Developed with Unreal Engine 5
+Welcome to the source code repository for FLIPSIDE.
+
+(Please note that all code here is confidential and cannot be shared.)
